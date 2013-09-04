@@ -21,6 +21,7 @@
 		0072FD5617D7B31600EAFBC4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0072FD3817D7B31600EAFBC4 /* UIKit.framework */; };
 		0072FD5E17D7B31600EAFBC4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0072FD5C17D7B31600EAFBC4 /* InfoPlist.strings */; };
 		0072FD6017D7B31600EAFBC4 /* RotatingImageViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0072FD5F17D7B31600EAFBC4 /* RotatingImageViewTests.m */; };
+		0072FD6A17D7B41900EAFBC4 /* someImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0072FD6917D7B41900EAFBC4 /* someImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0072FD5B17D7B31600EAFBC4 /* RotatingImageViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RotatingImageViewTests-Info.plist"; sourceTree = "<group>"; };
 		0072FD5D17D7B31600EAFBC4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0072FD5F17D7B31600EAFBC4 /* RotatingImageViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RotatingImageViewTests.m; sourceTree = "<group>"; };
+		0072FD6917D7B41900EAFBC4 /* someImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = someImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		0072FD3B17D7B31600EAFBC4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0072FD6917D7B41900EAFBC4 /* someImage.png */,
 				0072FD3C17D7B31600EAFBC4 /* RotatingImageView-Info.plist */,
 				0072FD3D17D7B31600EAFBC4 /* InfoPlist.strings */,
 				0072FD4017D7B31600EAFBC4 /* main.m */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0072FD4D17D7B31600EAFBC4 /* Images.xcassets in Resources */,
+				0072FD6A17D7B41900EAFBC4 /* someImage.png in Resources */,
 				0072FD3F17D7B31600EAFBC4 /* InfoPlist.strings in Resources */,
 				0072FD4817D7B31600EAFBC4 /* Main.storyboard in Resources */,
 			);
